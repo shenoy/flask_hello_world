@@ -6,6 +6,7 @@ import os
 from PIL import Image
 
 
+
 app = Flask(__name__)
 
 def hello_world():
